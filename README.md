@@ -103,4 +103,4 @@ _Pendiente: aún no se han realizado prototipos conceptuales._
 **Evidencia visual:**  
 _Pendiente._
 ** Link del repositorio del frontend **
-[Este es un link del repositorio hacía el frontend del reconocimiento] (https://github.com/EkarCortes/SeguridadFront)
+[Este es un enlace externo hacía el frontend](https://github.com/EkarCortes/SeguridadFront)
